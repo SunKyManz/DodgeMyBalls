@@ -136,6 +136,18 @@
 		{
 			"Name": "MyStandAloneFeature",
 			"Enabled": false
+		},
+		{
+			"Name": "DefaultModeAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "PerformanceMonitor",
+			"Enabled": true
+		},
+		{
+			"Name": "NetworkPrediction",
+			"Enabled": true
 		}
 	]
 }
